@@ -1,0 +1,139 @@
+/* Name: Keyal Manvar , Student Number: 8980735 */
+body {
+    width: 80%;
+    max-width: 2000px;
+    margin: 0 auto;
+    font: 16px/1.5 , sans-serif;
+    padding: 20px;
+    font:400 ;
+    height: 2000px;
+  }
+main{
+    float: left;
+    width: 60%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    height:  80vh; 
+}
+header h1 {
+    color: black;
+    font-size: 0.5in;
+    
+}
+div {
+    border: 5px solid black;
+    margin: 20px;
+}
+  .structural {
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+  }
+  footer {
+    border: 1px solid #000000;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px 0;
+  }
+  header{
+    border: 1px solid #000000;
+    text-align: left;
+    border-radius: 25px;
+    padding: 15px;
+    margin: 10px 0;
+  
+  }
+  
+  
+  header {
+    background-color: hsl(120, 100%, 50%);
+  }
+  
+  main {
+    background-color: hsl(120, 100%, 50%);
+    float: left;
+    width: 70%;
+    border-radius: 25px;
+     font-family: Arial, Helvetica, sans-serif ;
+  }
+  #paragraph1{
+    color: rgb(255, 0, 0);
+  }
+  
+  #paragraph2 {
+    color: rgb(234, 0, 255);
+  }
+  #paragraph3 {
+    color: rgb(0, 38, 255);
+  }
+  
+  
+  
+  aside {
+    background-color: hsl(91, 100%, 50%);
+    float: right;
+    width: 20%;
+    height: 550px;
+    margin-top: -350px;
+    margin-right: 50px;
+  }
+  
+  footer {
+    background-color: hsl(180, 100%, 50%);
+    clear: both;
+  }
+  
+  a:hover {
+    color: #ff0;
+  }
+  
+  footer p {
+    font-size: 0.8em;
+  }
+  
+.structural header {
+    background-color: hsl(40, 16%, 62%);
+}
+
+.structural main {
+    background-color: hsl(181, 100%, 50%);    
+}
+
+.structural aside {
+    background-color: rgb(206, 184, 118);    
+}
+
+.structural footer {
+    background-color:  hsl(91, 100%, 50%);    
+}
+aside ul {
+    list-style-type: square;
+}
+  
+aside ul li.hover,
+aside ul li:hover {
+    height: 2ln;
+    color: rgba(0, 0, 255, 0.5);
+}
+  
+aside ul li a:hover {
+    color: rgba(0, 0, 255, 0.5);
+}
+
+nav ul {
+    display: inline;
+    padding: 0;
+}
+  
+nav li {
+    display: inline;
+    padding: 0 0.5em;
+}
+  
+nav a {
+    border: 2px solid indigo;
+    color: indigo;
+    background-color: cornsilk;
+    text-decoration: none;
+    padding: 0.5em;
+}
